@@ -8,3 +8,4 @@
    - `-Dmirai.no-desktop -Dmirai.slider.acptcha.supported`
 2. 在浏览器复制验证码校验，f12 获取 ticket
 3. 将ticket粘贴到命令行
+啊手动阀
