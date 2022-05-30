@@ -1,8 +1,9 @@
 .idea
 cache
-./src/main/resources/application.yaml
+/src/main/resources/application.yaml
 omg-robot.iml
 target
+
 
 
 
